@@ -107,10 +107,10 @@ Para cada documento SEPA, el script imprime:
 ================================================================================
 Fichero: A41071465002aebweb20260306134535.xml
 Tipo: Transferencia SEPA (pain.001.001.03)
-Mensaje: A4107146500220260306134535
+Mensaje: A4103336500220260306134535
 Creado: 2026-03-06T13:45:35
-Ordenante inicial: PROCISA (TRANSFERENCIA)
-Identificador ordenante: A41071465002
+Ordenante inicial: TROCICA (TRANSFERENCIA)
+Identificador ordenante: A41033365002
 Total operaciones: 1
 Importe total: 732,27 EUR
 ```
