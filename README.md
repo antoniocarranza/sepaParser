@@ -105,7 +105,7 @@ Para cada documento SEPA, el script imprime:
 
 ```text
 ================================================================================
-Fichero: A41071465002aebweb20260306134535.xml
+Fichero: A41033365002aebweb20260306134535.xml
 Tipo: Transferencia SEPA (pain.001.001.03)
 Mensaje: A4103336500220260306134535
 Creado: 2026-03-06T13:45:35
