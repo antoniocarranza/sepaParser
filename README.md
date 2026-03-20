@@ -1,4 +1,4 @@
-# sepa
+# SEPA
 
 Script en Python para leer ficheros XML SEPA de transferencias y mostrarlos en un formato legible por terminal.
 
